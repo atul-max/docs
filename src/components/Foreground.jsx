@@ -1,5 +1,5 @@
 import React, { use } from 'react'
-import Card from './Card'
+import Card from './card'
 
 function Foreground() {
 
